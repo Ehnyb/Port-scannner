@@ -13,7 +13,8 @@ This project is a simple Python-based network port scanner that scans open ports
    sudo apt install python3
 2. **Run the Script:** Navigate to the folder where the script is saved and run:
    python3 port_scanner.py
-3. **Enter Details:** ### **How to Customize:**
+3. **Enter Details:**
+   ### **How to Customize:**
 - Replace `192.168.1.1` with an example IP you scanned.
 - In the "Future Improvements" section, list any features you plan to add later.
 
