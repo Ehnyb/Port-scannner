@@ -1,0 +1,2 @@
+Open Ports on 192.168.1.10: [53]
+Scan Duration: 0:18:18.483619
